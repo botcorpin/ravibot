@@ -1,8 +1,0 @@
-prefix=/home/ravi/robotics2/cws1_first/install
-
-Name: pkg1
-Description: Description of pkg1
-Version: 0.0.0
-Cflags: 
-Libs: -L/home/ravi/robotics2/cws1_first/install/lib 
-Requires: 

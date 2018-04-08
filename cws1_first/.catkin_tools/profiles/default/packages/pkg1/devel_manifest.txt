@@ -1,4 +1,0 @@
-pkg1
-/home/ravi/robotics2/cws1_first/devel/.private/pkg1/share/pkg1/cmake/pkg1Config-version.cmake /home/ravi/robotics2/cws1_first/devel/share/pkg1/cmake/pkg1Config-version.cmake
-/home/ravi/robotics2/cws1_first/devel/.private/pkg1/share/pkg1/cmake/pkg1Config.cmake /home/ravi/robotics2/cws1_first/devel/share/pkg1/cmake/pkg1Config.cmake
-/home/ravi/robotics2/cws1_first/devel/.private/pkg1/lib/pkgconfig/pkg1.pc /home/ravi/robotics2/cws1_first/devel/lib/pkgconfig/pkg1.pc
