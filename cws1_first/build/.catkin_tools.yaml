@@ -1,0 +1,6 @@
+devel_space: /home/ravi/robotics2/cws1_first/devel
+install: false
+install_space: /home/ravi/robotics2/cws1_first/install
+profile: default
+source_space: /home/ravi/robotics2/cws1_first/src
+workspace: /home/ravi/robotics2/cws1_first
