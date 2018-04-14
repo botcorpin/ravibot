@@ -1,0 +1,8 @@
+Symlinking /home/ravi/robotics2/catws_service_client/devel/./setup.zsh
+Symlinking /home/ravi/robotics2/catws_service_client/devel/./setup.sh
+Symlinking /home/ravi/robotics2/catws_service_client/devel/./_setup_util.py
+Symlinking /home/ravi/robotics2/catws_service_client/devel/./setup.bash
+Symlinking /home/ravi/robotics2/catws_service_client/devel/./env.sh
+Symlinking /home/ravi/robotics2/catws_service_client/devel/share/catkin_tools_prebuild/cmake/catkin_tools_prebuildConfig-version.cmake
+Symlinking /home/ravi/robotics2/catws_service_client/devel/share/catkin_tools_prebuild/cmake/catkin_tools_prebuildConfig.cmake
+Symlinking /home/ravi/robotics2/catws_service_client/devel/lib/pkgconfig/catkin_tools_prebuild.pc

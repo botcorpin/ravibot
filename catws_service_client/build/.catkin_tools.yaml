@@ -1,0 +1,6 @@
+devel_space: /home/ravi/robotics2/catws_service_client/devel
+install: false
+install_space: /home/ravi/robotics2/catws_service_client/install
+profile: default
+source_space: /home/ravi/robotics2/catws_service_client/src
+workspace: /home/ravi/robotics2/catws_service_client
