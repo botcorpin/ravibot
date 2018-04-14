@@ -10,6 +10,12 @@
 [36m--[0m Found gtest sources under '/usr/src/gtest': gtests will be built
 [36m--[0m Using Python nosetests: /usr/bin/nosetests-2.7
 [36m--[0m catkin 0.7.6
-[36m--[0m Configuring done
-[36m--[0m Generating done
-[36m--[0m Build files have been written to: /home/ravi/robotics2/catws_first_sub_pub/build/pkg1
+[31m[1mCMake Error[0m at /home/ravi/robotics2/catws_first_sub_pub/src/pkg1/CMakeLists.txt:70 (generate_messages):
+  Unknown CMake command "generate_messages".
+
+
+[36m--[0m Configuring incomplete, errors occurred!
+See also "/home/ravi/robotics2/catws_first_sub_pub/build/pkg1/CMakeFiles/CMakeOutput.log".
+See also "/home/ravi/robotics2/catws_first_sub_pub/build/pkg1/CMakeFiles/CMakeError.log".
+Makefile:500: recipe for target 'cmake_check_build_system' failed
+make: *** [cmake_check_build_system] Error 1

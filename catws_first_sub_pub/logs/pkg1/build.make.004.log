@@ -1,0 +1,5 @@
+[35m[1mScanning dependencies of target listener[0m
+[ 25%] [32mBuilding CXX object CMakeFiles/listener.dir/src/listener.cpp.o[0m
+[ 75%] Built target talker
+[100%] [32m[1mLinking CXX executable /home/ravi/robotics2/catws_first_sub_pub/devel/.private/pkg1/lib/pkg1/listener[0m
+[100%] Built target listener

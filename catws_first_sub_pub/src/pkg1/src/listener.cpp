@@ -13,7 +13,7 @@ int main(int argc , char **argv){
 
     ros::Subscriber sub = n.subscribe("chatter", 1000, chatterCallback);
 
-    ros::spin()
+    ros::spin();
 
     return 0;
 }
