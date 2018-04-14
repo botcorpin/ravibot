@@ -1,0 +1,8 @@
+prefix=/home/ravi/robotics2/catws_first_sub_pub/devel/.private/pkg1
+
+Name: pkg1
+Description: Description of pkg1
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/ravi/robotics2/catws_first_sub_pub/devel/.private/pkg1/lib 
+Requires: 

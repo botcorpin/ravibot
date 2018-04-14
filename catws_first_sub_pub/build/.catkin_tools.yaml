@@ -1,0 +1,6 @@
+devel_space: /home/ravi/robotics2/catws_first_sub_pub/devel
+install: false
+install_space: /home/ravi/robotics2/catws_first_sub_pub/install
+profile: default
+source_space: /home/ravi/robotics2/catws_first_sub_pub/src
+workspace: /home/ravi/robotics2/catws_first_sub_pub
