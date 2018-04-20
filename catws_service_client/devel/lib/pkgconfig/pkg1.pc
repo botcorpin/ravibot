@@ -1,1 +1,0 @@
-/home/ravi/robotics2/catws_service_client/devel/.private/pkg1/lib/pkgconfig/pkg1.pc
