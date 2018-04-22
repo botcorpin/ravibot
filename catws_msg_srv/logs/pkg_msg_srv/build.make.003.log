@@ -1,0 +1,21 @@
+[35m[1mScanning dependencies of target _pkg_msg_srv_generate_messages_check_deps_AddTwoInts[0m
+[  0%] Built target std_msgs_generate_messages_eus
+[  0%] Built target std_msgs_generate_messages_nodejs
+[  0%] Built target std_msgs_generate_messages_cpp
+[  0%] Built target std_msgs_generate_messages_py
+[  0%] Built target _pkg_msg_srv_generate_messages_check_deps_AddTwoInts
+[  0%] Built target _pkg_msg_srv_generate_messages_check_deps_Num
+[  0%] Built target std_msgs_generate_messages_lisp
+[  7%] [34m[1mGenerating EusLisp code from pkg_msg_srv/AddTwoInts.srv[0m
+[ 15%] [34m[1mGenerating Javascript code from pkg_msg_srv/AddTwoInts.srv[0m
+[ 23%] [34m[1mGenerating C++ code from pkg_msg_srv/AddTwoInts.srv[0m
+[ 30%] [34m[1mGenerating Python code from SRV pkg_msg_srv/AddTwoInts[0m
+[ 38%] Built target pkg_msg_srv_generate_messages_nodejs
+[ 53%] Built target pkg_msg_srv_generate_messages_eus
+[ 61%] [34m[1mGenerating Python msg __init__.py for pkg_msg_srv[0m
+[ 76%] [34m[1mGenerating Python srv __init__.py for pkg_msg_srv[0m
+[ 76%] [34m[1mGenerating Lisp code from pkg_msg_srv/AddTwoInts.srv[0m
+[ 84%] Built target pkg_msg_srv_generate_messages_lisp
+[ 92%] Built target pkg_msg_srv_generate_messages_py
+[100%] Built target pkg_msg_srv_generate_messages_cpp
+[100%] Built target pkg_msg_srv_generate_messages

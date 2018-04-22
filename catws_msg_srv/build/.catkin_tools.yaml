@@ -1,0 +1,6 @@
+devel_space: /home/ravi/robotics2/catws_msg_srv/devel
+install: false
+install_space: /home/ravi/robotics2/catws_msg_srv/install
+profile: default
+source_space: /home/ravi/robotics2/catws_msg_srv/src
+workspace: /home/ravi/robotics2/catws_msg_srv

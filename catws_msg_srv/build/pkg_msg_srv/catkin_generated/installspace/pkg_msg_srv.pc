@@ -1,0 +1,8 @@
+prefix=/home/ravi/robotics2/catws_msg_srv/install
+
+Name: pkg_msg_srv
+Description: Description of pkg_msg_srv
+Version: 0.0.0
+Cflags: -I/home/ravi/robotics2/catws_msg_srv/install/include
+Libs: -L/home/ravi/robotics2/catws_msg_srv/install/lib 
+Requires: message_generation roscpp rospy std_msgs

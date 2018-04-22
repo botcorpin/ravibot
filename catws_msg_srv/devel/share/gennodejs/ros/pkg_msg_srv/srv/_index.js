@@ -1,0 +1,1 @@
+/home/ravi/robotics2/catws_msg_srv/devel/.private/pkg_msg_srv/share/gennodejs/ros/pkg_msg_srv/srv/_index.js

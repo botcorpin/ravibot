@@ -1,0 +1,8 @@
+CMake Error: Error in cmake code at
+/home/ravi/robotics2/catws_msg_srv/src/pkg_msg_srv/CMakeLists.txt:201:
+Parse error.  Function missing ending ")".  End of file reached.
+[36m--[0m Configuring incomplete, errors occurred!
+See also "/home/ravi/robotics2/catws_msg_srv/build/pkg_msg_srv/CMakeFiles/CMakeOutput.log".
+See also "/home/ravi/robotics2/catws_msg_srv/build/pkg_msg_srv/CMakeFiles/CMakeError.log".
+Makefile:682: recipe for target 'cmake_check_build_system' failed
+make: *** [cmake_check_build_system] Error 1
