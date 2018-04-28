@@ -24,6 +24,8 @@ pkg_msg_srv
 /home/ravi/robotics2/catws_msg_srv/devel/.private/pkg_msg_srv/include/pkg_msg_srv/Num.h /home/ravi/robotics2/catws_msg_srv/devel/include/pkg_msg_srv/Num.h
 /home/ravi/robotics2/catws_msg_srv/devel/.private/pkg_msg_srv/include/pkg_msg_srv/AddTwoInts.h /home/ravi/robotics2/catws_msg_srv/devel/include/pkg_msg_srv/AddTwoInts.h
 /home/ravi/robotics2/catws_msg_srv/devel/.private/pkg_msg_srv/lib/pkgconfig/pkg_msg_srv.pc /home/ravi/robotics2/catws_msg_srv/devel/lib/pkgconfig/pkg_msg_srv.pc
+/home/ravi/robotics2/catws_msg_srv/devel/.private/pkg_msg_srv/lib/pkg_msg_srv/add_two_ints_server /home/ravi/robotics2/catws_msg_srv/devel/lib/pkg_msg_srv/add_two_ints_server
+/home/ravi/robotics2/catws_msg_srv/devel/.private/pkg_msg_srv/lib/pkg_msg_srv/add_two_ints_client /home/ravi/robotics2/catws_msg_srv/devel/lib/pkg_msg_srv/add_two_ints_client
 /home/ravi/robotics2/catws_msg_srv/devel/.private/pkg_msg_srv/lib/python2.7/dist-packages/pkg_msg_srv/__init__.py /home/ravi/robotics2/catws_msg_srv/devel/lib/python2.7/dist-packages/pkg_msg_srv/__init__.py
 /home/ravi/robotics2/catws_msg_srv/devel/.private/pkg_msg_srv/lib/python2.7/dist-packages/pkg_msg_srv/srv/__init__.py /home/ravi/robotics2/catws_msg_srv/devel/lib/python2.7/dist-packages/pkg_msg_srv/srv/__init__.py
 /home/ravi/robotics2/catws_msg_srv/devel/.private/pkg_msg_srv/lib/python2.7/dist-packages/pkg_msg_srv/srv/_AddTwoInts.py /home/ravi/robotics2/catws_msg_srv/devel/lib/python2.7/dist-packages/pkg_msg_srv/srv/_AddTwoInts.py

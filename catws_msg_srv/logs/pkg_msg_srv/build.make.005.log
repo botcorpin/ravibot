@@ -1,0 +1,23 @@
+[  0%] Built target std_msgs_generate_messages_eus
+[  0%] Built target std_msgs_generate_messages_cpp
+[  0%] Built target _pkg_msg_srv_generate_messages_check_deps_Num
+[  0%] Built target _pkg_msg_srv_generate_messages_check_deps_AddTwoInts
+[  0%] Built target std_msgs_generate_messages_lisp
+[  0%] Built target std_msgs_generate_messages_nodejs
+[  0%] Built target std_msgs_generate_messages_py
+[ 17%] Built target pkg_msg_srv_generate_messages_cpp
+[ 29%] Built target pkg_msg_srv_generate_messages_eus
+[ 41%] Built target pkg_msg_srv_generate_messages_lisp
+[35m[1mScanning dependencies of target pkg_msg_srv_gencpp[0m
+[ 52%] Built target pkg_msg_srv_generate_messages_nodejs
+[ 76%] Built target pkg_msg_srv_generate_messages_py
+[ 76%] Built target pkg_msg_srv_gencpp
+[35m[1mScanning dependencies of target add_two_ints_client[0m
+[35m[1mScanning dependencies of target add_two_ints_server[0m
+[ 76%] Built target pkg_msg_srv_generate_messages
+[ 82%] [32mBuilding CXX object CMakeFiles/add_two_ints_server.dir/src/add_two_ints_server.cpp.o[0m
+[ 88%] [32mBuilding CXX object CMakeFiles/add_two_ints_client.dir/src/add_two_ints_client.cpp.o[0m
+[100%] [32m[1mLinking CXX executable /home/ravi/robotics2/catws_msg_srv/devel/.private/pkg_msg_srv/lib/pkg_msg_srv/add_two_ints_server[0m
+[100%] [32m[1mLinking CXX executable /home/ravi/robotics2/catws_msg_srv/devel/.private/pkg_msg_srv/lib/pkg_msg_srv/add_two_ints_client[0m
+[100%] Built target add_two_ints_client
+[100%] Built target add_two_ints_server

@@ -166,6 +166,32 @@ depend:
 .PHONY : depend
 
 #=============================================================================
+# Target rules for targets named add_two_ints_client
+
+# Build rule for target.
+add_two_ints_client: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 add_two_ints_client
+.PHONY : add_two_ints_client
+
+# fast build rule for target.
+add_two_ints_client/fast:
+	$(MAKE) -f CMakeFiles/add_two_ints_client.dir/build.make CMakeFiles/add_two_ints_client.dir/build
+.PHONY : add_two_ints_client/fast
+
+#=============================================================================
+# Target rules for targets named add_two_ints_server
+
+# Build rule for target.
+add_two_ints_server: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 add_two_ints_server
+.PHONY : add_two_ints_server
+
+# fast build rule for target.
+add_two_ints_server/fast:
+	$(MAKE) -f CMakeFiles/add_two_ints_server.dir/build.make CMakeFiles/add_two_ints_server.dir/build
+.PHONY : add_two_ints_server/fast
+
+#=============================================================================
 # Target rules for targets named pkg_msg_srv_gennodejs
 
 # Build rule for target.
@@ -633,6 +659,60 @@ gtest_main/fast:
 	$(MAKE) -f gtest/CMakeFiles/gtest_main.dir/build.make gtest/CMakeFiles/gtest_main.dir/build
 .PHONY : gtest_main/fast
 
+src/add_two_ints_client.o: src/add_two_ints_client.cpp.o
+
+.PHONY : src/add_two_ints_client.o
+
+# target to build an object file
+src/add_two_ints_client.cpp.o:
+	$(MAKE) -f CMakeFiles/add_two_ints_client.dir/build.make CMakeFiles/add_two_ints_client.dir/src/add_two_ints_client.cpp.o
+.PHONY : src/add_two_ints_client.cpp.o
+
+src/add_two_ints_client.i: src/add_two_ints_client.cpp.i
+
+.PHONY : src/add_two_ints_client.i
+
+# target to preprocess a source file
+src/add_two_ints_client.cpp.i:
+	$(MAKE) -f CMakeFiles/add_two_ints_client.dir/build.make CMakeFiles/add_two_ints_client.dir/src/add_two_ints_client.cpp.i
+.PHONY : src/add_two_ints_client.cpp.i
+
+src/add_two_ints_client.s: src/add_two_ints_client.cpp.s
+
+.PHONY : src/add_two_ints_client.s
+
+# target to generate assembly for a file
+src/add_two_ints_client.cpp.s:
+	$(MAKE) -f CMakeFiles/add_two_ints_client.dir/build.make CMakeFiles/add_two_ints_client.dir/src/add_two_ints_client.cpp.s
+.PHONY : src/add_two_ints_client.cpp.s
+
+src/add_two_ints_server.o: src/add_two_ints_server.cpp.o
+
+.PHONY : src/add_two_ints_server.o
+
+# target to build an object file
+src/add_two_ints_server.cpp.o:
+	$(MAKE) -f CMakeFiles/add_two_ints_server.dir/build.make CMakeFiles/add_two_ints_server.dir/src/add_two_ints_server.cpp.o
+.PHONY : src/add_two_ints_server.cpp.o
+
+src/add_two_ints_server.i: src/add_two_ints_server.cpp.i
+
+.PHONY : src/add_two_ints_server.i
+
+# target to preprocess a source file
+src/add_two_ints_server.cpp.i:
+	$(MAKE) -f CMakeFiles/add_two_ints_server.dir/build.make CMakeFiles/add_two_ints_server.dir/src/add_two_ints_server.cpp.i
+.PHONY : src/add_two_ints_server.cpp.i
+
+src/add_two_ints_server.s: src/add_two_ints_server.cpp.s
+
+.PHONY : src/add_two_ints_server.s
+
+# target to generate assembly for a file
+src/add_two_ints_server.cpp.s:
+	$(MAKE) -f CMakeFiles/add_two_ints_server.dir/build.make CMakeFiles/add_two_ints_server.dir/src/add_two_ints_server.cpp.s
+.PHONY : src/add_two_ints_server.cpp.s
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -644,6 +724,8 @@ help:
 	@echo "... edit_cache"
 	@echo "... test"
 	@echo "... install/strip"
+	@echo "... add_two_ints_client"
+	@echo "... add_two_ints_server"
 	@echo "... pkg_msg_srv_gennodejs"
 	@echo "... rebuild_cache"
 	@echo "... pkg_msg_srv_generate_messages_nodejs"
@@ -682,6 +764,12 @@ help:
 	@echo "... pkg_msg_srv_generate_messages"
 	@echo "... gtest"
 	@echo "... gtest_main"
+	@echo "... src/add_two_ints_client.o"
+	@echo "... src/add_two_ints_client.i"
+	@echo "... src/add_two_ints_client.s"
+	@echo "... src/add_two_ints_server.o"
+	@echo "... src/add_two_ints_server.i"
+	@echo "... src/add_two_ints_server.s"
 .PHONY : help
 
 

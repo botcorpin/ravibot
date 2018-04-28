@@ -194,6 +194,8 @@ set(CMAKE_MAKEFILE_PRODUCTS
 
 # Dependency information for all targets:
 set(CMAKE_DEPEND_INFO_FILES
+  "CMakeFiles/add_two_ints_client.dir/DependInfo.cmake"
+  "CMakeFiles/add_two_ints_server.dir/DependInfo.cmake"
   "CMakeFiles/pkg_msg_srv_gennodejs.dir/DependInfo.cmake"
   "CMakeFiles/pkg_msg_srv_generate_messages_nodejs.dir/DependInfo.cmake"
   "CMakeFiles/pkg_msg_srv_genlisp.dir/DependInfo.cmake"
