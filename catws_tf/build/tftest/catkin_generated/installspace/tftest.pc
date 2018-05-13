@@ -1,0 +1,8 @@
+prefix=/home/ravi/robotics2/catws_tf/install
+
+Name: tftest
+Description: Description of tftest
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/ravi/robotics2/catws_tf/install/lib 
+Requires: 
