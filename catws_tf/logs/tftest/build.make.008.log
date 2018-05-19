@@ -1,5 +1,5 @@
 [35m[1mScanning dependencies of target turtle_tf_listener[0m
-[ 25%] [32mBuilding CXX object CMakeFiles/turtle_tf_listener.dir/src/turtle_tf_listener.cpp.o[0m
-[ 75%] Built target turtle_tf_broadcaster
+[ 50%] Built target turtle_tf_broadcaster
+[ 75%] [32mBuilding CXX object CMakeFiles/turtle_tf_listener.dir/src/turtle_tf_listener.cpp.o[0m
 [100%] [32m[1mLinking CXX executable /home/ravi/robotics2/catws_tf/devel/.private/tftest/lib/tftest/turtle_tf_listener[0m
 [100%] Built target turtle_tf_listener

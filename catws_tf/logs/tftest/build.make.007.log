@@ -1,0 +1,16 @@
+[35m[1mScanning dependencies of target turtle_tf_listener[0m
+[ 75%] Built target turtle_tf_broadcaster
+[ 75%] [32mBuilding CXX object CMakeFiles/turtle_tf_listener.dir/src/turtle_tf_listener.cpp.o[0m
+[01m[K/home/ravi/robotics2/catws_tf/src/tftest/src/turtle_tf_listener.cpp:[m[K In function ‘[01m[Kint main(int, char**)[m[K’:
+[01m[K/home/ravi/robotics2/catws_tf/src/tftest/src/turtle_tf_listener.cpp:26:43:[m[K [01;31m[Kerror: [m[K‘[01m[Kdestination_frame[m[K’ was not declared in this scope
+                 listener.waitForTransform(destination_frame, original_frame, ros::Time(0), ros::Duration(10.0) );
+[01;32m[K                                           ^[m[K
+[01m[K/home/ravi/robotics2/catws_tf/src/tftest/src/turtle_tf_listener.cpp:26:62:[m[K [01;31m[Kerror: [m[K‘[01m[Koriginal_frame[m[K’ was not declared in this scope
+                 listener.waitForTransform(destination_frame, original_frame, ros::Time(0), ros::Duration(10.0) );
+[01;32m[K                                                              ^[m[K
+CMakeFiles/turtle_tf_listener.dir/build.make:62: recipe for target 'CMakeFiles/turtle_tf_listener.dir/src/turtle_tf_listener.cpp.o' failed
+make[2]: *** [CMakeFiles/turtle_tf_listener.dir/src/turtle_tf_listener.cpp.o] Error 1
+CMakeFiles/Makefile2:67: recipe for target 'CMakeFiles/turtle_tf_listener.dir/all' failed
+make[1]: *** [CMakeFiles/turtle_tf_listener.dir/all] Error 2
+Makefile:138: recipe for target 'all' failed
+make: *** [all] Error 2
